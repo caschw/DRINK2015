@@ -8,19 +8,19 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid>
+    <Grid Margin="10">
         <ListView ItemsSource="{Binding PartyItems}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <StackPanel>
                         <TextBlock Text="{Binding Name}"/>
-                        <TextBlock Text="{Binding Description}" />
+                        <TextBlock Text="{Binding Description}" TextWrapping="Wrap" />
                         <Grid>
                             <TextBlock Text="{Binding Start}" Grid.Column="1" />
-                            <TextBlock Text="{Binding End}" Grid.Column="2" />
+                            <TextBlock Text="{Binding End}" Grid.Column="2" Margin="110,0,0,0" />
                         </Grid>
-                        <TextBlock Text="{Binding Address}" />
-                        <TextBlock Text="{Binding Sponsor}" />
+                        <TextBlock Text="{Binding Address}" TextWrapping="Wrap" />
+                        <TextBlock Text="{Binding Sponsor}" TextWrapping="Wrap" />
                     </StackPanel>
                 </DataTemplate>
             </ListView.ItemTemplate>
