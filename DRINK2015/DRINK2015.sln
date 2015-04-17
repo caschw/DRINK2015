@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DRINK2015", "DRINK2015\DRINK2015.csproj", "{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Debug|ARM.ActiveCfg = Debug|ARM
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Debug|ARM.Build.0 = Debug|ARM
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Debug|ARM.Deploy.0 = Debug|ARM
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Debug|Mixed Platforms.Deploy.0 = Debug|x86
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Debug|x86.ActiveCfg = Debug|x86
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Debug|x86.Build.0 = Debug|x86
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Debug|x86.Deploy.0 = Debug|x86
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Release|ARM.ActiveCfg = Release|ARM
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Release|ARM.Build.0 = Release|ARM
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Release|ARM.Deploy.0 = Release|ARM
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Release|Mixed Platforms.Build.0 = Release|x86
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Release|Mixed Platforms.Deploy.0 = Release|x86
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Release|x86.ActiveCfg = Release|x86
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Release|x86.Build.0 = Release|x86
+		{675ACA2A-0A18-479F-A5E4-7F6F6AC6F91D}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
